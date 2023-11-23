@@ -1,0 +1,71 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "color": "black",
+      "power": "rich"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "color": "blue",
+      "power": "superhuman strength and flying"
+    },
+    {
+      "id": 3,
+      "name": "Flash",
+      "color": "red",
+      "power": "super fast movement"
+    },
+    {
+      "name": "Polnaref",
+      "color": "silver",
+      "power": "Silver Chariot Requiem",
+      "id": 5
+    },
+    {
+      "name": "",
+      "color": "",
+      "power": "",
+      "id": 6
+    },
+    {
+      "name": "Jotaro",
+      "color": "black",
+      "power": "Star Platinum",
+      "id": 7
+    }
+  ],
+  "villains": [
+    {
+      "id": 1,
+      "name": "Joker",
+      "color": "green",
+      "power": "psycho"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Aries D",
+      "last_name": "Yudhistira",
+      "email": "aries@purwadhika.com",
+      "power": "psycho"
+    },
+    {
+      "id": 2,
+      "first_name": "Rian D",
+      "last_name": "Ikison",
+      "email": "rian@gmail.com",
+      "power": "strong haki"
+    },
+    {
+      "id": 3,
+      "first_name": "Tora D",
+      "last_name": "Walter Law",
+      "email": "tora@gmail.com",
+      "power": "operation room"
+    }
+  ]
+}
